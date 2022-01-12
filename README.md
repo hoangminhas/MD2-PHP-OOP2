@@ -1,0 +1,3 @@
+# What's up guyz! Welcome to my repo.
+### Copyright: minhthemeow a.k.a minh.nguyen.hoang
+-Bai tap access modifier, static, ...
