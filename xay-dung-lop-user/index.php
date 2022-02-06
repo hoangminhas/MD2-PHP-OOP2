@@ -1,4 +1,7 @@
 <?php
+
+use Models\User;
+
 include_once "User.php";
 
 $hoangminh = new User();
